@@ -1,0 +1,6 @@
+{
+  "name": "Kembara Bintang Sunnah",
+  "description": "Game 3D interaktif Pendidikan Islam Tahun 2 tentang Adab Makan dan Minum cara Rasulullah SAW dengan bintang emas, lencana pencapaian, audio interaktif, dan sijil kejayaan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
